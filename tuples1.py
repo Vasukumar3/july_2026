@@ -96,3 +96,6 @@ print(28 * " ", "Hyderabad")
 print("Name:", "vasu kumar palani", 30 * " ","August 04 2026")
 print(75 * "-")
 print("sno", 10 * " ", 'items', 8 * " ", 'quantity', 8 * " ", 'price')
+
+
+print("welcome")
